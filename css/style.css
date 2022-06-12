@@ -176,3 +176,7 @@ body a:hover {
 	text-decoration: none;
 	color: #000;
 }
+
+#moreOne {
+	display: none;
+}
